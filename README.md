@@ -1,1 +1,3 @@
-# visual_analytics
+# Knowledge and Visual Analytics
+
+Repository for assignments and relevant files.
